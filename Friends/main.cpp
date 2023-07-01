@@ -11,6 +11,7 @@ using pi = pair<int,int>;
 #define mp make_pair
 #define NO_GROUP   0
 #define ONE_NODE   1
+
 struct Node
 {
     int id = 0 ;
