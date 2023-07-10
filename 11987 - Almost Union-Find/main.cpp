@@ -66,7 +66,7 @@ void move(Node * x , Node * y , vector<Node*>& Nodes )
 
 int main()
 {
-    //Code By Abou_Hawis
+    Code By Abou_Hawis
     int n, q ;
     while(cin >> n >> q)
     {
